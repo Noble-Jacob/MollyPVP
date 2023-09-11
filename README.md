@@ -13,9 +13,11 @@ MollyPVP is a feature-rich Minecraft plugin tailored for an enhanced PVP experie
 - **Custom Kill Particles**: Add a touch of drama to every duel. Celebrate victories with unique kill particles.
 
 - **Unique Death Messages**: Elevate the PVP experience with custom death messages, exclusively tailored for the arena battles.
-  ![Screenshot 2023-09-11 043918](https://github.com/Noble-Jacob/MollyPVP/assets/69790720/08efa527-3291-4ec1-9e18-33389332fc49)
+  
 
 - **KeepInventory**: Dive into battle without a second thought. With `KeepInventory` activated by default, you'll never have to worry about losing your gear.
+
+![Screenshot 2023-09-11 043918](https://github.com/Noble-Jacob/MollyPVP/assets/69790720/89131bfb-2a10-4a97-b20c-2118a5eb652f)
 
 ---
 
