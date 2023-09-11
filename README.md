@@ -29,7 +29,9 @@ KeepInventory: No more worries about losing gear in the heat of battle. KeepInve
 
 📖 Commands & Permissions
 Command	Description	Permission
+
 /addregspawn <region>	Associates a PVP arena with a WorldGuard region	mollypvp.addregspawn
+
 /setregspawn <region>	Sets a respawn point within the specified region	mollypvp.setregspawn
 
 
