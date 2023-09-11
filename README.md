@@ -3,7 +3,7 @@
 MollyPVP
 Elevateing Mollyverse PVP experience.
 
-MollyPVP is a feature-rich Minecraft plugin tailored for an enhanced PVP experience within our arena. It integrates seamlessly with WorldGuard, ensuring smooth operations and more control over it will our battlegrounds.
+MollyPVP is a feature-rich Minecraft plugin tailored for an enhanced PVP experience within our arena. It integrates seamlessly with WorldGuard, ensuring smooth operations and more control over in our battlegrounds.
 
 
 ## 🌟 Features
