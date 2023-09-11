@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MollyPVP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MollyPVP_jar</output-path>
+    <root id="archive" name="MollyPVP.jar">
+      <element id="module-output" name="MollyPVP" />
+    </root>
+  </artifact>
+</component>

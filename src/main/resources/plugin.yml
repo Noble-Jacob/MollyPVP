@@ -1,0 +1,21 @@
+name: MollyPVP
+version: '${project.version}'
+main: org.noble.mollypvp.MollyPVP
+api-version: '1.20'
+load: STARTUP
+description: Respawns players in PvP arena upon death
+depend: [WorldGuard]
+commands:
+  setregspawn:
+    description: 'Set the respawn location for a given region'
+    usage: '/setregspawn <region>'
+  addregspawn:
+    description: 'Add a new region and set its respawn location'
+    usage: '/addregspawn <region>'
+  mollypvp-reload:
+    description: Reloads the MollyPVP configuration.
+    usage: /<command>
+    aliases: [ mpreload ]
+
+events:
+  death: HIGH

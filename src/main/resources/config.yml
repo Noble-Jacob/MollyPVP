@@ -1,0 +1,5 @@
+custom-death-message: "&c⚔ &d%killer% &fkilled &d%victim% &c⚔"
+
+regions:
+  region1:
+    respawn: "x1,y1,z1"
