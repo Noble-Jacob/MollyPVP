@@ -1,11 +1,9 @@
 # MollyPVP
 
 MollyPVP
-Elevate your Minecraft PVP experience.
+Elevateing Mollyverse PVP experience.
 
-Banner // Optionally include a banner or logo for MollyPVP.
-
-MollyPVP is a feature-rich Minecraft plugin tailored for an enhanced PVP experience within your arenas. It integrates seamlessly with WorldGuard, ensuring smooth operations and more control over your battlegrounds.
+MollyPVP is a feature-rich Minecraft plugin tailored for an enhanced PVP experience within our arena. It integrates seamlessly with WorldGuard, ensuring smooth operations and more control over it will our battlegrounds.
 
 
 ## 🌟 Features
@@ -41,7 +39,7 @@ KeepInventory: No more worries about losing gear in the heat of battle. KeepInve
 | `/setregspawn <region>`   | Sets a respawn point within the specified region    | `mollypvp.setregspawn`     |
 
 
-
+---
 
 Made with ❤️ //NOBLE//.
 
